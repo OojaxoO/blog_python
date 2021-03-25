@@ -10,7 +10,7 @@ Jinja2==2.10
 PyJWT==1.7.1
 PyMySQL==0.8.0
 pytz==2018.9
-PyYAML==3.13
+PyYAML==5.4
 redis==2.10.6
 requests==2.21.0
 requests-oauthlib==1.2.0
